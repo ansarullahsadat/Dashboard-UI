@@ -49,7 +49,7 @@ const chartConfig = {
   } as ApexOptions,
 } as ApexChart
 
-export function Page() {
+function Page() {
   return (
     <section className='py-12 px-4 md:px-8 w-fit'>
       <Card className='py-4 px-2 md:px-6'>
