@@ -1,9 +1,8 @@
 "use client"
 
 import Chart from "react-apexcharts"
-import { SelectFace3d } from "iconoir-react"
 import type { ApexOptions } from "apexcharts"
-import { Card, Typography } from "@material-tailwind/react"
+import { Card } from "@material-tailwind/react"
 
 const chartConfig = {
   type: "pie",
